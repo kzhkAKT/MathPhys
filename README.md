@@ -1,1 +1,3 @@
-# MathmaticalPhysics
+# 物理数学
+
+講義資料
